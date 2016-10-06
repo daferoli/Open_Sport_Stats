@@ -1,0 +1,22 @@
+{
+  "name": "open_sport_stats",
+  "version": "0.0.1",
+  "description": "open source sport stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daferoli/Open_Sport_Stats.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daferoli/Open_Sport_Stats/issues"
+  },
+  "homepage": "https://github.com/daferoli/Open_Sport_Stats#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
